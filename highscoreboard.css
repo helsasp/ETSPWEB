@@ -1,0 +1,43 @@
+h2{
+    text-align: center;
+    font-size: 50px;
+    color: rgb(255, 181, 53);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+body {
+    text-align: center;
+    background-image: url('starbg2.gif');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    backdrop-filter: blur(10px);
+    justify-content: center;
+    align-items: center;
+    
+
+}
+
+table {
+    font-family: Arial, sans-serif;
+    border-collapse: collapse;
+    width: 50%;
+    margin: 20px auto;
+    background-color: rgb(255, 255, 194);
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+td, th {
+    border: 1px solid #ffd65a;
+    text-align: left;
+    padding: 8px;
+    text-align: center;
+}
+
+th {
+    background-color: #f2f2f2;
+    font-size: 20px;
+    font-family :fantasy;
+}
+
